@@ -25,7 +25,7 @@ const SidebarChatsItem = ({ id, users, user, setUserChat, active }) => {
 
   return (
     <div
-      className={`flex items-center  border-gray-300 border- justify-start px-4 py-3 cursor-pointer hover:bg-gray-100 active:bg-gray-100 ${
+      className={`flex items-center  border-gray-300 border- justify-start px-4 py-3 cursor-pointer hover:bg-purple-300 active:bg-gray-100 ${
         active ? 'bg-gray-100' : ''
       }`}
       onClick={handleNewChat}

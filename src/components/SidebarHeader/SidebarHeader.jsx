@@ -39,15 +39,15 @@ const SidebarHeader = ({ setUserChat }) => {
   
   return (
     
-    <div className=" flex h-14 bg-[#f0f2f5] px-4 mb-1 justify-between items-center shadow-sm"> 
+    <div className=" flex h-14 bg-purple-300 px-4 mb-1 justify-between items-center shadow-sm"> 
       <img className=" w-10 h-10 cursor-pointer rounded-[50%] " 
       src={user?.photoURL}onClick={() => [auth.signOut(), setUserChat(null)]} 
       />
     
      <div className="flex  gap-2.5">
-     <MdDonutLarge className=" w-6 h-6 stroke-[#54656f] cursor-pointer "/>
-        <MdChat onClick={handleCreateChat} className=" w-6 h-6 stroke-[#54656f] cursor-pointer " />
-        <MdMoreVert className=" w-6 h-6 stroke-[#54656f] cursor-pointer " />
+     <MdDonutLarge className=" w-6 h-6 stroke-purple-700 cursor-pointer "/>
+        <MdChat onClick={handleCreateChat} className=" w-6 h-6 stroke-purple-700  cursor-pointer " />
+        <MdMoreVert className=" w-6 h-6 cursor-pointer stroke-purple-700 " />
      </div>
 
     </div>

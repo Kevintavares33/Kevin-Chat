@@ -34,7 +34,7 @@ const ChatFooter = ({ chatId }) => {
           value={message}
           onChange={(e) => setMessage(e.target.value)}
         />
-        <button type="submit"  className="ml-2 p-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 focus:outline-none">
+        <button type="submit"  className="ml-2 p-2 rounded-full bg-purple-700  text-white hover:bg-Violet-800 focus:outline-none">
         <IoMdSend className="w-4 h-4" /> 
         </button>
       </form>
