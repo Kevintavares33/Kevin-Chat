@@ -6,7 +6,7 @@ export default {
   theme: {
     backgroundImage: {
       login: "url('./src/assets/bg-2.jpg')",
-      back: "url('./src/assets/background.jpg')",
+      back: "url('./src/assets/back.png')",
     extend: {},
   },
   plugins: [],
