@@ -63,13 +63,13 @@ Siga as etapas abaixo para clonar, instalar as dependências e executar o projet
 
 ### Clonando o Repositório
 
-**git clone** https://github.com/Kevintavares33/This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-.git
+**git clone** https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk.git
 
 Copy code
 
 ### Instalando Dependências
 
-cd This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-
+cd Kevin-Chat-Desafio-Front-end-Fintalk.git
 npm install
 
 ### Executando o Projeto
