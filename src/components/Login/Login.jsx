@@ -9,7 +9,7 @@ const Login = () => {
 
     return (
         
-        <div className="flex colum  items-center justify-center w-full h-screen bg-back bg-cover  font-serif">
+        <div className="flex colum  items-center justify-center w-full h-screen bg-background bg-cover  font-serif">
           
           <a href="https://portfolio-kevintavares33.vercel.app/">
           <h3 className="w-20 h-20 absolute top-0 left-0 mt-10  ml-[10px] text-neutral-300 font-mono ">KevinDev</h3>
