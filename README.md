@@ -12,8 +12,11 @@
 
 ## Tecnologias Utilizadas:
  -**Vite**:Optei por utilizar o Vite como minha ferramenta de build devido à sua velocidade e configuração fácil. Com o Vite, pude iniciar rapidamente meu projeto e manter um ambiente de desenvolvimento ágil.
+ 
  -**React**:Escolhi o React como minha biblioteca principal para construir a interface de usuário do aplicativo. Sua abordagem declarativa e componentizada facilitou a criação de uma interface dinâmica e responsiva.
+ 
  -**Firebase**: Para lidar com a parte de autenticação de usuários e armazenamento de dados em tempo real, integrei o Firebase ao projeto. A plataforma Firebase ofereceu uma solução completa e fácil de usar para gerenciar a autenticação de usuários e sincronizar dados em tempo real entre os clientes.
+ 
  -**Tailwind CSS**: Utilizei o Tailwind CSS como meu framework CSS para estilizar o aplicativo. Sua abordagem utility-first permitiu-me criar estilos de forma eficiente, sem a necessidade de escrever CSS personalizado extenso.
 
 ## Dependências do Projeto
