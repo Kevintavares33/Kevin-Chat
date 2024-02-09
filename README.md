@@ -75,3 +75,12 @@ npm install
 ### Executando o Projeto
 
 npm run dev
+
+
+### Atenção para instruções de uso:
+
+![manual](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/b2fa9725-d354-4e8d-a920-2173db3023dc)
+
+![manual2](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/de58719e-dd53-4cf2-bcf8-3a94bbe7b038)
+
+![manual3](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/a0ca215e-8c1a-47f9-bc2e-2fff120799c1)
