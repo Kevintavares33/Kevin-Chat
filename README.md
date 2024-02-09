@@ -43,7 +43,7 @@
 -**vite: Build tool para projetos web modernos**.
 
 ## Acessar ou Executar o Projeto
-1. [Clique aqui para acessar o projeto] https://kevin-chat-desafio-front-end-fintalk.vercel.app/
+1. <a href='https://kevin-chat-desafio-front-end-fintalk.vercel.app/'> Click Aqui para Acessar o app 🌐 </a>
 2. Deploy feito na [Vercel](https://vercel.com/)
 
     **OU**
