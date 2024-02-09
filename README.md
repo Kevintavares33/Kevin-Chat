@@ -1,31 +1,41 @@
-Kevin Chat
+# Kevin Chat
+
 Kevin Chat é um aplicativo de chat em tempo real desenvolvido com Vite, React, Firebase e Tailwind CSS.
 
-Funcionalidades Esperadas
-Cadastro e autenticação de usuários: Implementa um sistema que permite que os usuários criem uma conta e façam login no aplicativo.
-Criação e gestão de salas de chat: Os usuários podem criar novas salas de chat e se juntar a salas existentes. A gestão das salas inclui funcionalidades como dar nome à sala, definir uma descrição e restringir o acesso por meio de convites.
-Envio e recebimento de mensagens em tempo real: Apesar do foco no front-end, o aplicativo simula a comunicação em tempo real. Isso é feito usando mocks ou estados locais para simular a interação entre usuários em diferentes instâncias do aplicativo.
-Instalação
+## Funcionalidades Esperadas
+
+- **Cadastro e autenticação de usuários:** Implementa um sistema que permite que os usuários criem uma conta e façam login no aplicativo.
+- **Criação e gestão de salas de chat:** Os usuários podem criar novas salas de chat e se juntar a salas existentes. A gestão das salas inclui funcionalidades como dar nome à sala, definir uma descrição e restringir o acesso por meio de convites.
+- **Envio e recebimento de mensagens em tempo real:** Apesar do foco no front-end, o aplicativo simula a comunicação em tempo real. Isso é feito usando mocks ou estados locais para simular a interação entre usuários em diferentes instâncias do aplicativo.
+
+## Instalação
+
 Para executar o aplicativo localmente, siga estas etapas:
 
-Clone este repositório.
-Navegue até o diretório do projeto.
-Execute o seguinte comando para instalar as dependências:
-bash
-Copy code
+1. Clone este repositório.
+2. Navegue até o diretório do projeto.
+3. Execute o seguinte comando para instalar as dependências:
+
 npm install
+
 Após a instalação das dependências, inicie o servidor de desenvolvimento:
-bash
-Copy code
+
 npm run dev
+
 Isso abrirá o aplicativo em seu navegador padrão.
 
-Tecnologias Utilizadas
+### Tecnologias Utilizadas
+
 Vite: Build tool rápida e configurável para projetos web modernos.
+
 React: Biblioteca JavaScript para a construção de interfaces de usuário.
+
 Firebase: Plataforma de desenvolvimento de aplicativos móveis e web.
+
 Tailwind CSS: Framework de CSS utility-first para criar designs personalizados sem sair do HTML.
-Dependências
+
+### Dependências
+
 email-validator: Utilizado para validar endereços de e-mail.
 firebase: SDK oficial do Firebase para JavaScript.
 react: Biblioteca React.
