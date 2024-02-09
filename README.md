@@ -2,50 +2,42 @@
 
 ***Kevin Chat é um aplicativo de chat em tempo real desenvolvido com Vite, React, Firebase e Tailwind CSS.***
 
+<p>olá Estou empolgado em compartilhar com vocês como o projeto de chat em tempo real para o desafio da Fintalk foi desenvolvido. Este projeto foi uma oportunidade emocionante de aplicar diversas tecnologias modernas e construir uma aplicação robusta e eficiente.</p>
+
 ## Funcionalidades Esperadas
 
-- **Cadastro e autenticação de usuários:** Implementa um sistema que permite que os usuários criem uma conta e façam login no aplicativo.
-- **Criação e gestão de salas de chat:** Os usuários podem criar novas salas de chat e se juntar a salas existentes. A gestão das salas inclui funcionalidades como dar nome à sala, definir uma descrição e restringir o acesso por meio de convites.
-- **Envio e recebimento de mensagens em tempo real:** Apesar do foco no front-end, o aplicativo simula a comunicação em tempo real. Isso é feito usando mocks ou estados locais para simular a interação entre usuários em diferentes instâncias do aplicativo.
-Este repositório contém o código fonte e a configuração do projeto para o site Fintalk. O site é desenvolvido utilizando a stack moderna, incluindo Next.js, TypeScript, Tailwind CSS e ferramentas relacionadas.
+- **Cadastro e autenticação de usuários:**
+- **Criação e gestão de salas de chat:** 
+- **Envio e recebimento de mensagens em tempo real:**
+
+## Tecnologias Utilizadas:
+ -**Vite**:Optei por utilizar o Vite como minha ferramenta de build devido à sua velocidade e configuração fácil. Com o Vite, pude iniciar rapidamente meu projeto e manter um ambiente de desenvolvimento ágil.
+ -**React**:Escolhi o React como minha biblioteca principal para construir a interface de usuário do aplicativo. Sua abordagem declarativa e componentizada facilitou a criação de uma interface dinâmica e responsiva.
+ -**Firebase**: Para lidar com a parte de autenticação de usuários e armazenamento de dados em tempo real, integrei o Firebase ao projeto. A plataforma Firebase ofereceu uma solução completa e fácil de usar para gerenciar a autenticação de usuários e sincronizar dados em tempo real entre os clientes.
+ -**Tailwind CSS**: Utilizei o Tailwind CSS como meu framework CSS para estilizar o aplicativo. Sua abordagem utility-first permitiu-me criar estilos de forma eficiente, sem a necessidade de escrever CSS personalizado extenso.
 
 ## Dependências do Projeto
+-**@types/react: Pacotes de tipos TypeScript para React**.
 
-- **@testing-library/react**: ^14.1.2
-  - Biblioteca de testes para React, usada para escrever testes unitários e de integração.
+-**@types/react-dom: Pacotes de tipos TypeScript para react-dom**.
 
-- **@types/node**: 20.10.8
-  - Tipos TypeScript para Node.js.
+-**@vitejs/plugin-react: Plugin para integrar React com Vite**.
 
-- **@types/react**: 18.2.47
-  - Tipos TypeScript para React.
+-**autoprefixer: Plugin PostCSS para adicionar prefixos de navegador automaticamente**.
 
-- **@vitejs/plugin-react**: ^4.2.1
-  - Plugin Vite para integração fácil com projetos React.
+-**eslint: Ferramenta de linting para identificar e relatar padrões de código**.
 
-- **autoprefixer**: ^10.4.16
-  - Plugin PostCSS para adicionar automaticamente prefixos de vendor aos estilos.
+-**eslint-plugin-react: Plugin ESLint para regras específicas do React**.
 
-- **eslint**: 8.56.0
-  - Linter para JavaScript e TypeScript.
+-**eslint-plugin-react-hooks: Plugin ESLint para regras específicas dos Hooks do React**.
 
-- **eslint-config-next**: 14.0.4
-  - Configuração ESLint específica para projetos Next.js.
+-**eslint-plugin-react-refresh: Plugin ESLint para regras específicas do React Refresh**.
 
-- **jsdom**: ^23.2.0
-  - Ambiente de DOM para testes em Node.js.
+-**postcss: Ferramenta de pós-processamento de CSS**.
 
-- **postcss**: ^8.4.33
-  - Ferramenta para transformar estilos CSS com JavaScript.
+-**tailwindcss: Framework CSS utility-first**.
 
-- **tailwindcss**: ^3.4.1
-  - Framework CSS utilitário para design responsivo.
-
-- **typescript**: 5.3.3
-  - Linguagem de programação TypeScript.
-
-- **vitest**: ^1.2.0
-  - Biblioteca de testes para Vite, usada para testes de front-end.
+-**vite: Build tool para projetos web modernos**.
 
 ## Acessar ou Executar o Projeto
 1. [Clique aqui para acessar o projeto](https://this-is-a-challenge-by-coodesh-desafio-front-end-qwxbjitcu.vercel.app/)
@@ -53,7 +45,7 @@ Este repositório contém o código fonte e a configuração do projeto para o s
 
     **OU**
 
-4. **Instalação das Dependências:**
+3. **Instalação das Dependências:**
   
 
 ## Como Executar Localmente
@@ -63,22 +55,19 @@ Siga as etapas abaixo para clonar, instalar as dependências e executar o projet
 ### Pré-requisitos
 
 - [Node.js](https://nodejs.org/)
+
 - [npm](https://www.npmjs.com/) 
 
 ### Clonando o Repositório
 
-git clone https://github.com/Kevintavares33/This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-.git
+**git clone** https://github.com/Kevintavares33/This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-.git
 
-shell
 Copy code
 
 ### Instalando Dependências
 
 cd This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-
 npm install
-
-shell
-Copy code
 
 ### Executando o Projeto
 
