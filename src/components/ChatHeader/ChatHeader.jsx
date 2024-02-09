@@ -3,7 +3,7 @@ import { MdMoreVert, MdPerson, MdSearch } from "react-icons/md";
 // eslint-disable-next-line react/prop-types
 const ChatHeader = ({ photoURL, name }) => {
   return (
-    <div className="h-14 bg-purple-300 px-4 flex items-center justify-between shadow-sm z-10">
+    <div className="h-14 bg-purple-100 px-4 flex items-center justify-between shadow-sm z-10">
       <div className="flex items-center">
         {photoURL ? (
           <img src={photoURL} alt="Avatar" className="w-8 h-8 rounded-full mr-2" />

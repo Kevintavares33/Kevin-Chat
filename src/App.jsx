@@ -24,7 +24,7 @@ function App() {
 
   if (!user) return <Login />;
   return (
-    <div className='flex w-full h-screen'>
+    <div className='flex w-full h-screen font-serif'>
      <Sidebar setUserChat={setUserChat} userChat={userChat} />
      <Chat userChat={userChat} />
     </div>

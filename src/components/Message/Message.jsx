@@ -9,9 +9,9 @@ const Message = ({ user, message }) => {
   return (
     <div>
       <div className={`flex ${userLoggedIn?.email === user ? "justify-end" : ""} m-2`}>
-        <div className="bg-purple-700  rounded-lg shadow p-3 max-w-80">
-          <p className="text-base text-neutral-100  ">{message.message}</p>
-          <p className="text-[9px] text-neutral-50 text-right">{new Date(message?.timestamp).toLocaleString()}</p>
+        <div className="bg-purple-200  rounded-lg shadow p-3 max-w-80">
+          <p className="text-base text-purple-900 font-sans font-semibold   ">{message.message}</p>
+          <p className="text-[9px] text-purple-300 text-right">{new Date(message?.timestamp).toLocaleString()}</p>
         </div>
       </div>
     </div>

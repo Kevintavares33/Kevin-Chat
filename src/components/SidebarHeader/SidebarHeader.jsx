@@ -39,7 +39,7 @@ const SidebarHeader = ({ setUserChat }) => {
   
   return (
     
-    <div className=" flex h-14 bg-purple-300 px-4 mb-1 justify-between items-center shadow-sm"> 
+    <div className=" flex h-14 bg-purple-100 px-4 mb-1 justify-between items-center shadow-sm"> 
       <img className=" w-10 h-10 cursor-pointer rounded-[50%] " 
       src={user?.photoURL}onClick={() => [auth.signOut(), setUserChat(null)]} 
       />

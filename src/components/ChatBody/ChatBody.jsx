@@ -24,7 +24,7 @@ const ChatBody = ({ chatId }) => {
 
    
   return (
-    <div ref={refBody} className="flex-1 overflow-y-auto  bg-neutral-200 scrollbar-hide">
+    <div ref={refBody} className="flex-1 overflow-y-auto  bg-neutral-100 scrollbar-hide">
       {messagesRes?.docs.map((message) => (
         <Message
           key={message.id}

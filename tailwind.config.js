@@ -4,9 +4,11 @@ export default {
     "./index.html", "./src/**/*.{js,ts,jsx,tsx}",]
    ,
   theme: {
-    
+    backgroundImage: {
+      login: "url('./src/assets/bg-2.jpg')",
+      back: "url('./src/assets/background.jpg')",
     extend: {},
   },
   plugins: [],
 }
-
+}

@@ -25,7 +25,7 @@ const ChatFooter = ({ chatId }) => {
   };
 
   return (
-    <div className="h-16 bg-gray-100  bottom-0 w-full flex items-center px-4 shadow-md">
+    <div className="h-16 bg-purple-100  bottom-0 w-full flex items-center px-4 shadow-md">
       <form className="w-full flex items-center" onSubmit={handleSendMessage}>
         <input
           type="text"
@@ -34,7 +34,7 @@ const ChatFooter = ({ chatId }) => {
           value={message}
           onChange={(e) => setMessage(e.target.value)}
         />
-        <button type="submit"  className="ml-2 p-2 rounded-full bg-purple-700  text-white hover:bg-Violet-800 focus:outline-none">
+        <button type="submit"  className="ml-2 p-2 rounded-full bg-purple-500  border-white  text-white hover:bg-Violet-800 focus:outline-none">
         <IoMdSend className="w-4 h-4" /> 
         </button>
       </form>
