@@ -5,8 +5,8 @@ export default {
    ,
   theme: {
     backgroundImage: {
-      login: "url('./src/assets/bg-2.jpg')",
-      back: "url('./src/assets/back.png')",
+      login: "url('./src/assets/bg2.jpg')",
+      back: "url('./public/back.png')",
     extend: {},
   },
   plugins: [],
