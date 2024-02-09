@@ -43,7 +43,7 @@
 -**vite: Build tool para projetos web modernos**.
 
 ## Acessar ou Executar o Projeto
-1. [Clique aqui para acessar o projeto](https://this-is-a-challenge-by-coodesh-desafio-front-end-qwxbjitcu.vercel.app/)
+1. [Clique aqui para acessar o projeto](https://this-is-a-challenge-by-coodesh-desafio-front-end-qwxbjitcu.vercel.app](https://kevin-chat-desafio-front-end-fintalk.vercel.app/)
 2. Deploy feito na [Vercel](https://vercel.com/)
 
     **OU**
