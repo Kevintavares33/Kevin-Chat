@@ -1,56 +1,85 @@
 # Kevin Chat
 
-Kevin Chat é um aplicativo de chat em tempo real desenvolvido com Vite, React, Firebase e Tailwind CSS.
+***Kevin Chat é um aplicativo de chat em tempo real desenvolvido com Vite, React, Firebase e Tailwind CSS.***
 
 ## Funcionalidades Esperadas
 
 - **Cadastro e autenticação de usuários:** Implementa um sistema que permite que os usuários criem uma conta e façam login no aplicativo.
 - **Criação e gestão de salas de chat:** Os usuários podem criar novas salas de chat e se juntar a salas existentes. A gestão das salas inclui funcionalidades como dar nome à sala, definir uma descrição e restringir o acesso por meio de convites.
 - **Envio e recebimento de mensagens em tempo real:** Apesar do foco no front-end, o aplicativo simula a comunicação em tempo real. Isso é feito usando mocks ou estados locais para simular a interação entre usuários em diferentes instâncias do aplicativo.
+Este repositório contém o código fonte e a configuração do projeto para o site Fintalk. O site é desenvolvido utilizando a stack moderna, incluindo Next.js, TypeScript, Tailwind CSS e ferramentas relacionadas.
 
-## Instalação
+## Dependências do Projeto
 
-Para executar o aplicativo localmente, siga estas etapas:
+- **@testing-library/react**: ^14.1.2
+  - Biblioteca de testes para React, usada para escrever testes unitários e de integração.
 
-1. Clone este repositório.
-2. Navegue até o diretório do projeto.
-3. Execute o seguinte comando para instalar as dependências:
+- **@types/node**: 20.10.8
+  - Tipos TypeScript para Node.js.
 
+- **@types/react**: 18.2.47
+  - Tipos TypeScript para React.
+
+- **@vitejs/plugin-react**: ^4.2.1
+  - Plugin Vite para integração fácil com projetos React.
+
+- **autoprefixer**: ^10.4.16
+  - Plugin PostCSS para adicionar automaticamente prefixos de vendor aos estilos.
+
+- **eslint**: 8.56.0
+  - Linter para JavaScript e TypeScript.
+
+- **eslint-config-next**: 14.0.4
+  - Configuração ESLint específica para projetos Next.js.
+
+- **jsdom**: ^23.2.0
+  - Ambiente de DOM para testes em Node.js.
+
+- **postcss**: ^8.4.33
+  - Ferramenta para transformar estilos CSS com JavaScript.
+
+- **tailwindcss**: ^3.4.1
+  - Framework CSS utilitário para design responsivo.
+
+- **typescript**: 5.3.3
+  - Linguagem de programação TypeScript.
+
+- **vitest**: ^1.2.0
+  - Biblioteca de testes para Vite, usada para testes de front-end.
+
+## Acessar ou Executar o Projeto
+1. [Clique aqui para acessar o projeto](https://this-is-a-challenge-by-coodesh-desafio-front-end-qwxbjitcu.vercel.app/)
+2. Deploy feito na [Vercel](https://vercel.com/)
+
+    **OU**
+
+4. **Instalação das Dependências:**
+  
+
+## Como Executar Localmente
+
+Siga as etapas abaixo para clonar, instalar as dependências e executar o projeto em sua máquina local.
+
+### Pré-requisitos
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) 
+
+### Clonando o Repositório
+
+git clone https://github.com/Kevintavares33/This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-.git
+
+shell
+Copy code
+
+### Instalando Dependências
+
+cd This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-
 npm install
 
-Após a instalação das dependências, inicie o servidor de desenvolvimento:
+shell
+Copy code
+
+### Executando o Projeto
 
 npm run dev
-
-Isso abrirá o aplicativo em seu navegador padrão.
-
-### Tecnologias Utilizadas
-
-Vite: Build tool rápida e configurável para projetos web modernos.
-
-React: Biblioteca JavaScript para a construção de interfaces de usuário.
-
-Firebase: Plataforma de desenvolvimento de aplicativos móveis e web.
-
-Tailwind CSS: Framework de CSS utility-first para criar designs personalizados sem sair do HTML.
-
-### Dependências
-
-email-validator: Utilizado para validar endereços de e-mail.
-firebase: SDK oficial do Firebase para JavaScript.
-react: Biblioteca React.
-react-dom: Pacote de ligação do React para manipulação do DOM.
-react-firebase-hooks: Hooks personalizados para facilitar o uso do Firebase com React.
-react-icons: Pacote de ícones para React.
-Dependências de Desenvolvimento
-@types/react: Pacotes de tipos TypeScript para React.
-@types/react-dom: Pacotes de tipos TypeScript para react-dom.
-@vitejs/plugin-react: Plugin para integrar React com Vite.
-autoprefixer: Plugin PostCSS para adicionar prefixos de navegador automaticamente.
-eslint: Ferramenta de linting para identificar e relatar padrões de código.
-eslint-plugin-react: Plugin ESLint para regras específicas do React.
-eslint-plugin-react-hooks: Plugin ESLint para regras específicas dos Hooks do React.
-eslint-plugin-react-refresh: Plugin ESLint para regras específicas do React Refresh.
-postcss: Ferramenta de pós-processamento de CSS.
-tailwindcss: Framework CSS utility-first.
-vite: Build tool para projetos web modernos.
