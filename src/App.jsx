@@ -2,13 +2,12 @@ import { useEffect, useState } from 'react';
 import { useAuthState } from "react-firebase-hooks/auth";
 import './App.css';
 import Chat from './components/Chat/Chat';
-import Loading from "./components/Loading/Loading";
 import Login from "./components/Login/Login";
 import Sidebar from './components/Sidebar/Sidebar';
 import { auth, db } from "./services/firebase";
 
 function App() {
-  const [user, loading] = useAuthState(auth);
+  const [user, Loading] = useAuthState(auth);
   const [userChat, setUserChat] = useState(null);
 
   useEffect(() => {
@@ -20,7 +19,7 @@ function App() {
     }
   }, [user]);
 
-  if (loading) return <Loading />;
+  if (Loading) return <Loading />;
 
   if (!user) return <Login />;
   return (
