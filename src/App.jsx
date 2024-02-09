@@ -18,10 +18,9 @@ function App() {
       });
     }
   }, [user]);
-
-  if (Loading) return <Loading />;
-
+  if (Loading) return <div></div>;
   if (!user) return <Login />;
+
   return (
     <div className='flex w-full h-screen font-serif'>
      <Sidebar setUserChat={setUserChat} userChat={userChat} />
@@ -30,4 +29,4 @@ function App() {
   )
 }
 
-export default App
+export default App 
