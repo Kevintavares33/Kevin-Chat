@@ -1,8 +1,8 @@
-# Kevin Chat
+# Kevin Chat 💬
 
 ***Kevin Chat é um aplicativo de chat em tempo real desenvolvido com Vite, React, Firebase e Tailwind CSS.***
 
-<p>olá Estou empolgado em compartilhar com vocês como o projeto de chat em tempo real para o desafio da Fintalk foi desenvolvido. Este projeto foi uma oportunidade emocionante de aplicar diversas tecnologias modernas e construir uma aplicação robusta e eficiente.</p>
+<p>Olá... Estou empolgado em compartilhar com vocês como o projeto de chat em tempo real para o desafio da Fintalk foi desenvolvido. Este projeto foi uma oportunidade emocionante de aplicar diversas tecnologias modernas e construir uma aplicação robusta e eficiente.</p>
 
 ## Funcionalidades Esperadas
 
