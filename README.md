@@ -2,7 +2,16 @@
 
 ***Kevin Chat é um aplicativo de chat em tempo real desenvolvido com Vite, React, Firebase e Tailwind CSS.***
 
-<p>Olá... Estou empolgado em compartilhar com vocês como o projeto de chat em tempo real para o desafio da Fintalk foi desenvolvido. Este projeto foi uma oportunidade emocionante de aplicar diversas tecnologias modernas e construir uma aplicação robusta e eficiente.</p>
+<p>Ooi seja bem vindo ao projeto Kevin Chat!
+O design do Kevin Chat foi desenvolvido para a FinTalk e ele reflete uma expressão cuidadosa de modernidade e sofisticação, </p>
+
+### Significado das Cores:
+
+**Púrpura**: Representando riqueza, poder e criatividade, o púrpura adiciona um toque de exclusividade e elegância ao design do chat, alinhando-se à imagem de qualidade e excelência associada ao meu padrao de desenvolvimento.
+**Índigo**: Com suas associações à intuição, espiritualidade e serenidade, o índigo complementa o púrpura, adicionando uma camada de profundidade e tranquilidade à experiência do usuário. Isso contribui para uma atmosfera de confiança e estabilidade, fundamentais em um ambiente de comunicação em tempo real.
+
+### Experiência do Usuário:
+O design do Kevin Chat prioriza uma experiência do usuário dinâmica, moderna e interativa. Os usuários podem registrar-se facilmente, acessar salas de chat e se comunicar em tempo real com outros usuários, tudo isso em uma interface intuitiva e agradável. A combinação das cores púrpura e índigo não só oferece uma estética visualmente atraente, mas também cria uma experiência coesa e reconfortante para os usuários.
 
 ## Funcionalidades Esperadas
 
