@@ -17,7 +17,7 @@ O design do Kevin Chat prioriza uma experiência do usuário dinâmica, moderna 
 ## Funcionalidades Esperadas
 
 - **Cadastro e autenticação de usuários:**
-- **Criação e gestão de salas de chat:** 
+- **Criação de salas de chat:** 
 - **Envio e recebimento de mensagens em tempo real:**
 
 ## Tecnologias Utilizadas:
