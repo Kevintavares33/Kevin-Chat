@@ -8,6 +8,7 @@ O design do Kevin Chat foi desenvolvido para a FinTalk e ele reflete uma express
 ### Significado das Cores:
 
 **Púrpura**: Representando riqueza, poder e criatividade, o púrpura adiciona um toque de exclusividade e elegância ao design do chat, alinhando-se à imagem de qualidade e excelência associada ao meu padrao de desenvolvimento.
+
 **Índigo**: Com suas associações à intuição, espiritualidade e serenidade, o índigo complementa o púrpura, adicionando uma camada de profundidade e tranquilidade à experiência do usuário. Isso contribui para uma atmosfera de confiança e estabilidade, fundamentais em um ambiente de comunicação em tempo real.
 
 ### Experiência do Usuário:
