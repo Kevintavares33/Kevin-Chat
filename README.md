@@ -88,10 +88,14 @@ npm run dev
 
 
 ### Atenção para instruções de uso:
+**Envie o App para quem você quiser falar**
 
-![manual](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/b2fa9725-d354-4e8d-a920-2173db3023dc)
+-**1** Compartilhe o Link https://kevin-chat-desafio-front-end-fintalk.vercel.app
 
-![manual2](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/b1e74f1b-8711-47ab-bc8c-ae99bdbdc13b)
+-**2**  ![manual](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/b2fa9725-d354-4e8d-a920-2173db3023dc)
 
-![manual3](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/a2d89ca8-3bd9-4e9e-8340-b7a17eb0663c)
+-**3** ![manual2](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/b1e74f1b-8711-47ab-bc8c-ae99bdbdc13b)
 
+-**4** ![manual3](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/a2d89ca8-3bd9-4e9e-8340-b7a17eb0663c)
+
+-**5** ![Captura de Tela 2024-02-12 às 12 09 44](https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk/assets/125915861/83ff18fe-bf72-4427-a13e-2e747dbae672)
