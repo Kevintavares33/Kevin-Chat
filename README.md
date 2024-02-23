@@ -73,7 +73,7 @@ Siga as etapas abaixo para clonar, instalar as dependências e executar o projet
 
 ### Clonando o Repositório
 
-**git clone** https://github.com/Kevintavares33/Kevin-Chat-Desafio-Front-end-Fintalk.git
+**git clone** https://github.com/Kevintavares33/Kevin-Chat.git
 
 Copy code
 
